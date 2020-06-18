@@ -4,7 +4,7 @@
   height: 750px;
 }
 #features {
-  background-color: green;
+  background-color: #262424;
   height: 400px;
 }
 .h1 {
@@ -14,7 +14,18 @@
   color: #00f208;
   font-weight: bolder;
 }
+h3 {
+  font-family: "Montserrat";
+  font-weight: bolder;
+  font-size: 1.5rem;
+  margin-right: 90px;
+  width: 110%;
+  color: #00f208;
+}
 
+p {
+  color: #00f208;
+}
 .container-fluid {
   padding: 30px 30px 30px 30px;
 }
@@ -53,7 +64,21 @@
   margin: 10px 5px ;
 }
 
-
 .section-two {
  padding-left: 70px;
+}
+
+.new {
+  padding: 100px 120px 50px 150px;
+}
+
+.fas {
+  padding-left: 70px;
+  padding-bottom: 20px;
+  color: #00f208;
+  font-size: 50px;
+}
+
+.fas:hover {
+  color: #ff4c68;
 }
