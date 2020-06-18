@@ -1,0 +1,59 @@
+#title {
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
+  height: 750px;
+}
+#features {
+  background-color: green;
+  height: 400px;
+}
+.h1 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #00f208;
+  font-weight: bolder;
+}
+
+.container-fluid {
+  padding: 30px 30px 30px 30px;
+}
+
+.windows {
+  height: 25px;
+  padding-right: 7px;
+}
+
+.playstore-logo {
+  height: 25px;
+  padding-right: 7px;
+}
+
+.navbar {
+  padding-bottom: 90px;
+}
+
+.fab {
+  color: #00f208;
+}
+
+.fas {
+
+}
+
+.nav-item {
+  padding: 0rem 1.5rem;
+}
+
+.jl-logo {
+  margin-left: 150px;
+}
+
+.spacing-in-button {
+  margin: 10px 5px ;
+}
+
+
+.section-two {
+ padding-left: 70px;
+}
