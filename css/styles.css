@@ -82,3 +82,40 @@ p {
 .fas:hover {
   color: #ff4c68;
 }
+
+#testimonials {
+ color: #00f208;
+ background-color: black;
+ text-align: center;
+ padding: 50px 20px;
+
+}
+
+.testimonials-image {
+  border-radius: 100%;
+  width: 10%;
+}
+
+.doggy {
+  width: 70%;
+  margin-left: 230px;
+}
+
+#press {
+  background-color: black;
+  text-align: center;
+}
+
+.four-images {
+  width: 15%;
+}
+
+#carouselExampleControls {
+  padding: 7% 15%;
+}
+
+.row {
+  text-align: center;
+  padding-top: 120px;
+  padding-right: 20px;
+}
